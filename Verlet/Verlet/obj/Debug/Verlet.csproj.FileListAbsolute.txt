@@ -1,0 +1,12 @@
+\\Mac\Home\Desktop\Graficación Y Videojuegos\Verlet\Verlet\bin\Debug\Verlet.exe.config
+\\Mac\Home\Desktop\Graficación Y Videojuegos\Verlet\Verlet\bin\Debug\Verlet.exe
+\\Mac\Home\Desktop\Graficación Y Videojuegos\Verlet\Verlet\bin\Debug\Verlet.pdb
+\\Mac\Home\Desktop\Graficación Y Videojuegos\Verlet\Verlet\obj\Debug\Verlet.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Graficación Y Videojuegos\Verlet\Verlet\obj\Debug\Verlet.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Graficación Y Videojuegos\Verlet\Verlet\obj\Debug\Verlet.Properties.Resources.resources
+\\Mac\Home\Desktop\Graficación Y Videojuegos\Verlet\Verlet\obj\Debug\Verlet.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Graficación Y Videojuegos\Verlet\Verlet\obj\Debug\Verlet.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Graficación Y Videojuegos\Verlet\Verlet\obj\Debug\Verlet.exe
+\\Mac\Home\Desktop\Graficación Y Videojuegos\Verlet\Verlet\obj\Debug\Verlet.pdb
+\\Mac\Home\Desktop\Graficación Y Videojuegos\Verlet\Verlet\obj\Debug\Verlet.Form1.resources
+\\Mac\Home\Desktop\Graficación Y Videojuegos\Verlet\Verlet\obj\Debug\Verlet.Resource1.resources
